@@ -6,7 +6,7 @@
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS8lv-iEOWtRxGDqsOR-Pa1kIiqN298569zVA&s" alt="Descrição da imagem ou link para o GitHub"style="width:80px;height:auto;">
     <a href="https://www.linkedin.com/in/lucas-de-oliveira-silva-12abb8303/">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTImRXLjKYtAKgfz9DeYNXf43XnDFIcuB20NQ&s" alt="Descrição da imagem ou link para o GitHub" style="width:80px;height:auto;">
-
+	</a>
     <h2>Languages and Tools:
 <p align="left">
 	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="30" /></a>
