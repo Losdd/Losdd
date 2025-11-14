@@ -1,4 +1,4 @@
-<h1>Hi, i'm Lucas de Oliveira Silva</h1> 
+<h1 style: text-align:center;>Hi, i'm Lucas de Oliveira Silva</h1> 
 <em>I am a beginner in systems development.</em>
 <h1>Connect with me:
     <br>
