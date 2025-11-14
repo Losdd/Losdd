@@ -7,11 +7,9 @@
     <a href="https://www.linkedin.com/in/lucas-de-oliveira-silva-12abb8303/">
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTImRXLjKYtAKgfz9DeYNXf43XnDFIcuB20NQ&s" alt="Descrição da imagem ou link para o GitHub" style="width:80px;height:auto;">
     
-    <h3 align="left">Languages and Tools:</h3>
+    <h2 align="left">Languages and Tools:</h2>
 <p align="left">
-	<a href="https://wordpress.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-tile.svg" alt="WordPress" height="30" /></a>
 	<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" height="30" /></a>
-	<a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" height="30" /></a>
 	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" height="30" /></a>
 	<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" height="30" /></a>
 	<a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" height="30" /></a>
