@@ -38,3 +38,13 @@ I enjoy learning, experimenting, and improving a little more with every project 
   <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
 </div>
+
+## 📊 Statistics
+
+<div align="center">
+  
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=tokyonight&include_all_commits=true" />
+
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&theme=tokyonight" />
+
+</div>
