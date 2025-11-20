@@ -1,12 +1,12 @@
-## 👋 Olá! Eu sou o Lucas
+## 👋 Hi! I'm Lucas
 
-Sou estudante técnico em Análise e Desenvolvimento de Sistemas pelo SENAI e tenho focado em construir soluções que realmente resolvem problemas — sempre equilibrando lógica, simplicidade e criatividade. 
+I'm a technical student in Systems Analysis and Development at SENAI, focused on building solutions that actually solve real problems — always balancing logic, simplicity, and creativity.
 
-Atualmente estou aprofundando meus conhecimentos em desenvolvimento web, boas práticas de código e ferramentas que ajudam a transformar ideias em projetos concretos.
+Right now, I'm expanding my skills in web development, clean code practices, and tools that help turn ideas into practical, well-crafted projects.
 
-Gosto de aprender, experimentar e melhorar um pouco a cada projeto.
+I enjoy learning, experimenting, and improving a little more with every project I build.
 
-## 🚀 Tecnologias & Ferramentas
+## 🚀 Technologies & Tools
 
 <div style="display: flex; align-items: center; gap: 15px; flex-wrap: wrap;">
 
