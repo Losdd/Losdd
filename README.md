@@ -60,7 +60,7 @@ I like writing clean code, solving problems with simple approaches, and continuo
 ## 🌐 Connect
 
 <p align="center">
-  <a href="www.linkedin.com/in/lucas-de-oliveira-silva-12abb8303" style="text-decoration:none;">
+  <a href="https://www.linkedin.com/in/lucas-de-oliveira-silva-12abb8303" style="text-decoration:none;">
     <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
   </a>
 </p>
