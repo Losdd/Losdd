@@ -1,50 +1,46 @@
-<h1 align="center">👋 Hey, I'm Lucas</h1>
+<h1 align="center">Lucas • Full-Stack Developer</h1>
 
 <p align="center">
-  <em>Passionate Full-Stack Developer in progress — turning ideas into clean, scalable, and creative solutions.</em>
+  <em>Building clean, simple and meaningful solutions — one project at a time.</em>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👋 About Me
 
-I'm a technical student in Systems Analysis and Development at SENAI, currently diving deep into both **frontend** and **backend** development.
+I'm a technical student in Systems Analysis and Development at SENAI, currently working on both **frontend** and **backend** projects.
 
-I love building things from scratch, experimenting with new tools, and transforming ideas into working projects that make sense.  
-Always aiming for clean code, elegant solutions, and continuous improvement.
+I like writing clean code, solving problems with simple approaches, and continuously improving my work through practice and curiosity.
 
 ---
 
-## 🛠️ Technologies & Tools
+## 🛠️ Technologies
 
 <div style="display: flex; align-items: center; gap: 15px; flex-wrap: wrap;">
 
-  <!-- Frontend -->
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 
-  <!-- Backend -->
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 
-  <!-- Tools -->
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-  <img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 
 </div>
 
 ---
 
-## 📈 GitHub Statistics
+## 📈 GitHub Overview
 
 <div align="center">
 
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Losdd&show_icons=true&theme=tokyonight&include_all_commits=true" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Losdd&show_icons=true&theme=transparent&hide_title=true" />
 
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Losdd&layout=compact&theme=tokyonight" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Losdd&layout=compact&theme=transparent" />
 
 </div>
 
@@ -52,28 +48,21 @@ Always aiming for clean code, elegant solutions, and continuous improvement.
 
 ## 📂 Featured Projects
 
-> Add the ones you want later — here’s the section already formatted:
+> Add your projects here later.  
+> Clean, objective, minimal.
 
-- 🔹 **Project Name** — short description here  
-- 🔹 **Project Name** — short description here  
-- 🔹 **Project Name** — short description here  
-
----
-
-## ✨ Extra Touch
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Losdd/Losdd/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
-*(Optional — I can generate this animation for you se quiser.)*
+- **Project Name** — short description.  
+- **Project Name** — short description.  
+- **Project Name** — short description.  
 
 ---
 
-## 🔗 Let's Connect
+## 🌐 Connect
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/SEU-LINKEDIN"><img height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"></a>
+  <a href="https://www.linkedin.com/in/SEU-LINKEDIN" style="text-decoration:none;">
+    <img height="38" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg"/>
+  </a>
 </p>
 
 ---
