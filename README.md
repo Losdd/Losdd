@@ -54,7 +54,7 @@ Currently studying Python, JavaScript and Web Development, and looking for oppor
 > Add your projects here later.  
 > Clean, objective, minimal.
 
-- **Project Name** — short description.  
+- **Personal Projects Developer** — Development of personal projects focused on web applications and programming practice using Python, JavaScript, HTML and CSS.  
 - **Project Name** — short description.  
 - **Project Name** — short description.  
 
