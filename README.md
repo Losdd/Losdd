@@ -8,9 +8,9 @@
 
 ## 👋 About Me
 
-I'm a technical student in Systems Analysis and Development at SENAI, currently working on both **frontend** and **backend** projects.
-
-I like writing clean code, solving problems with simple approaches, and continuously improving my work through practice and curiosity.
+I’m a Systems Analysis and Development student focused on becoming a Full-Stack Developer.
+I enjoy building practical projects, solving real problems with code, and constantly improving my skills.
+Currently studying Python, JavaScript and Web Development, and looking for opportunities to gain experience and grow as a developer.
 
 ---
 
