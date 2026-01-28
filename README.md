@@ -9,7 +9,9 @@
 ## 👋 About Me
 
 I’m a Systems Analysis and Development student focused on becoming a Full-Stack Developer.
+
 I enjoy building practical projects, solving real problems with code, and constantly improving my skills.
+
 Currently studying Python, JavaScript and Web Development, and looking for opportunities to gain experience and grow as a developer.
 
 ---
