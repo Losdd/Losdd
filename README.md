@@ -23,18 +23,6 @@ Outside programming, I enjoy learning new technologies, solving programming chal
 
 ---
 
-## 🚀 Current Focus
-
-- 📚 Studying Systems Analysis and Development (SENAI)
-- 🌱 Learning React and modern JavaScript
-- 💻 Building Full Stack projects
-- 🛠 Improving Backend Development
-- 🗄 Learning Database Design
-- ⚡ Exploring APIs and Cloud Technologies
-- 🤖 Studying IoT and Embedded Systems
-
----
-
 # 📫 Connect with Me
 
 <p align="left">
@@ -59,344 +47,40 @@ Outside programming, I enjoy learning new technologies, solving programming chal
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
 </p>
 
-- HTML5
-- CSS3
-- JavaScript (ES6+)
-- Bootstrap
-- React *(Currently Learning)*
-
----
-
-## ⚙️ Backend
-
 <p>
 <img src="https://skillicons.dev/icons?i=python,flask,java,c" />
 </p>
-
-- Python
-- Flask
-- Java
-- C
-
----
-
-## 🗄 Database
 
 <p>
 <img src="https://skillicons.dev/icons?i=postgresql" />
 </p>
 
-- PostgreSQL
-- SQL
-- Database Modeling
-- Reverse Engineering
-- Cloud Database
-
----
-
-## 🛠 Tools
-
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" />
 </p>
-
-- Git
-- GitHub
-- Linux
-- VS Code
-- Figma
-
----
-
-## 🤖 IoT & Embedded Systems
 
 <p>
 <img src="https://skillicons.dev/icons?i=arduino" />
 </p>
 
-- Arduino
-- ESP32
-- Tinkercad
-- Wokwi
-
----
-
-## 📚 Currently Learning
-
 <p>
 <img src="https://skillicons.dev/icons?i=react,nodejs" />
 </p>
 
-- React
-- REST APIs
-- Progressive Web Apps (PWA)
-- Software Architecture
 
-# 📈 Learning Journey
 
-```text
-2025
-│
-├── Programming Logic
-├── C Language
-├── HTML5 & CSS3
-├── JavaScript
-├── Responsive Web Design
-├── Bootstrap
-├── SQL & PostgreSQL
-├── Database Modeling
-├── Python
-├── Flask
-├── Linux
-├── Git & GitHub
-├── Software Engineering
-├── Scrum & Kanban
-├── Arduino & ESP32
-├── Java
-├── APIs
-└── React 🚀
 
 
----
 
-# 🎓 Areas of Knowledge
-
-```md
-# 🎓 Areas of Knowledge
-
-✔ Web Development
-
-✔ Backend Development
-
-✔ Database Design
-
-✔ Software Engineering
-
-✔ Responsive Design
-
-✔ REST APIs
-
-✔ Linux
-
-✔ IoT
-
-✔ Version Control
-
-✔ Object-Oriented Programming
-
-# ❤️ Favorite Technologies
-
-🐍 Python
-
-🌐 JavaScript
-
-🗄 PostgreSQL
-
-⚡ Flask
-
-💻 HTML & CSS
-
-🐧 Linux
-
-# 📖 Currently Exploring
-
-- React
-
-- Full Stack Development
-
-- Clean Code
-
-- Software Architecture
-
-- Cloud Databases
-
-- Modern JavaScript
-
-# ☕ Fun Fact
-
-I enjoy turning ideas into real-world applications and documenting everything I learn along the way.
-
-Every project I build is an opportunity to improve my skills and discover something new.
-
-# 🚀 Featured Projects
-
----
-
-## 🥗 PraLife – Healthy Food E-commerce
-
-A responsive e-commerce website developed for a healthy food store.
-
-### ✨ Features
-
-- 👤 User Authentication
-- 🛒 Shopping Cart
-- 🥦 Product Categories
-- 🔎 Advanced Product Filters
-- 📱 Responsive Design
-- 💾 Local Storage Authentication
-- 🔐 Password Management
-- 🎨 Bootstrap Interface
-
-### 🛠 Technologies
-
-`HTML5` `CSS3` `JavaScript` `Bootstrap` `LocalStorage`
-
-🔗 Repository *(Coming Soon)*
-
----
-
-## 🚗 Vehicle License Plate Detection
-
-Desktop/Web application capable of detecting vehicle license plates using image processing and OCR.
-
-### ✨ Features
-
-- 📷 Image Upload
-- 🔍 Plate Detection
-- 🤖 OCR Recognition
-- ⚡ Fast Processing
-- 🌐 Flask Backend
-
-### 🛠 Technologies
-
-`Python`
-`OpenCV`
-`Flask`
-`OCR`
-
-🔗 Repository *(Coming Soon)*
-
----
-
-## 🌱 Sustainable Development Goals Website
-
-Interactive educational website developed around the UN Sustainable Development Goals (SDGs), presenting information and SENAI-SP initiatives.
-
-### ✨ Features
-
-- 🌎 SDG Information
-- 📖 Educational Content
-- 📱 Responsive Layout
-- 🎨 Interactive Interface
-
-### 🛠 Technologies
-
-`HTML5`
-`CSS3`
-`JavaScript`
-`JSON`
-
-🔗 Repository *(Coming Soon)*
-
----
-
-## 🍰 Confectionery Website
-
-Responsive landing page designed for a confectionery business.
-
-### ✨ Features
-
-- 🍩 Responsive Design
-- 📱 Mobile Friendly
-- 🎨 Modern Interface
-
-### 🛠 Technologies
-
-`HTML`
-`CSS`
-`JavaScript`
-
-🔗 Repository *(Coming Soon)*
-
----
-
-## 📊 Data & Database Projects
-
-Collection of database and SQL projects developed during Systems Analysis and Development studies.
-
-### Topics
-
-- SQL
-- PostgreSQL
-- Database Modeling
-- Reverse Engineering
-- Queries
-- Cloud Databases
-
-🔗 Repository *(Coming Soon)*
-
----
-
-
-✔ November Blue Website
-
-✔ HTML Calendar
-
-✔ Image Carousel
-
-✔ Responsive Websites
-
-✔ JSON Applications
-
-✔ Login System
-
-✔ Password Generator
-
-✔ Guessing Game
-
-✔ Progressive Discount Calculator
-
-✔ Fruit Maturity Checker
-
-✔ Event Age Classifier
-
-✔ CSV Manipulation
-
-✔ Linux Scripts
-
-✔ Arduino Projects
-
-✔ ESP32 Simulations
-
-✔ Requirement Gathering
-
-✔ Scrum & Kanban Activities
-
-✔ Mockup Development
-
-# 📌 Featured Skills
-
-🚀 Full Stack Fundamentals
-
-🌐 Responsive Web Development
-
-🗄 Database Design
-
-⚙ Backend Development
-
-🐧 Linux
-
-🤖 IoT
-
-📊 Problem Solving
-
-📚 Continuous Learning
-
-
-Every project in this profile represents an important step in my learning journey.
-
-Instead of focusing only on technologies, I enjoy building practical solutions that improve my understanding of software development, problem solving and best coding practices.
-
-I believe that consistent practice and continuous learning are the keys to becoming a better developer.
 
 
 
 
 <div align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=Losdd&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Losdd&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -404,7 +88,7 @@ I believe that consistent practice and continuous learning are the keys to becom
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=SEU_USUARIO&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=Losdd&theme=tokyonight&hide_border=true"/>
 
 </div>
 
@@ -422,7 +106,7 @@ I believe that consistent practice and continuous learning are the keys to becom
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Losdd&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
