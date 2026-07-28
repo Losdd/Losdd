@@ -44,35 +44,14 @@ Outside programming, I enjoy learning new technologies, solving programming chal
 ## 🌐 Frontend
 
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
-
-
-
 <img src="https://skillicons.dev/icons?i=python,flask,java,c" />
-
-
-
 <img src="https://skillicons.dev/icons?i=postgresql" />
-
-
-
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" />
-
-
-
 <img src="https://skillicons.dev/icons?i=arduino" />
-
-
-
 <img src="https://skillicons.dev/icons?i=react,nodejs" />
-
-
-
 <div align="center">
-
 <img height="170em" src="https://github-readme-stats.vercel.app/api?username=Losdd&show_icons=true&theme=tokyonight&hide_border=true"/>
-
 <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Losdd&layout=compact&theme=tokyonight&hide_border=true"/>
-
 </div>
 
 ---
@@ -93,16 +72,6 @@ Outside programming, I enjoy learning new technologies, solving programming chal
 
 ---
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Losdd&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
 # 🌎 Languages
 
 🇧🇷 Portuguese — Native
@@ -116,22 +85,6 @@ Outside programming, I enjoy learning new technologies, solving programming chal
 </p>
 
 ---
-
-# 🎓 Education
-
-🏫 SENAI São Paulo
-
-**Technical Course**
-
-Systems Analysis and Development
-
-📅 2025 – 2026
-
----
-
-
-# 📈 Coding Activity
-
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Losdd&theme=tokyo-night&hide_border=true"/>
