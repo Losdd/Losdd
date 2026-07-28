@@ -43,36 +43,27 @@ Outside programming, I enjoy learning new technologies, solving programming chal
 
 ## 🌐 Frontend
 
-<p>
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react" />
-</p>
 
-<p>
+
+
 <img src="https://skillicons.dev/icons?i=python,flask,java,c" />
-</p>
 
-<p>
+
+
 <img src="https://skillicons.dev/icons?i=postgresql" />
-</p>
 
-<p>
+
+
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,figma" />
-</p>
 
-<p>
+
+
 <img src="https://skillicons.dev/icons?i=arduino" />
-</p>
 
-<p>
+
+
 <img src="https://skillicons.dev/icons?i=react,nodejs" />
-</p>
-
-
-
-
-
-
-
 
 
 
@@ -112,76 +103,6 @@ Outside programming, I enjoy learning new technologies, solving programming chal
 
 ---
 
-# 📚 Current Learning Journey
-
-```text
-██████████░░░░░░░░░  HTML & CSS
-
-█████████░░░░░░░░░░  JavaScript
-
-████████░░░░░░░░░░░  Python
-
-███████░░░░░░░░░░░░ SQL
-
-██████░░░░░░░░░░░░░ Linux
-
-█████░░░░░░░░░░░░░░ Flask
-
-████░░░░░░░░░░░░░░░ React
-```
-
-# 🏆 What I'm Working On
-
-🚀 Improving Full Stack Development
-
-📚 Learning React
-
-⚙ Studying Software Architecture
-
-🗄 Exploring Cloud Databases
-
-💻 Building Practical Projects
-
-🤖 Expanding IoT Knowledge
-
-# 🗺 2026 Roadmap
-
-✅ HTML
-
-✅ CSS
-
-✅ JavaScript
-
-✅ Python
-
-✅ SQL
-
-✅ PostgreSQL
-
-✅ Linux
-
-✅ Git
-
-✅ Bootstrap
-
-✅ Flask
-
-🔄 React
-
-🔄 REST APIs
-
-🔄 Mobile Development
-
-🔄 Cloud Services
-
-🔄 Advanced Full Stack Projects
-
-# 💡 Developer Mindset
-
-> "Programming isn't just about writing code.
->
-> It's about solving problems, continuously learning, and building solutions that make an impact."
-
 # 🌎 Languages
 
 🇧🇷 Portuguese — Native
@@ -193,19 +114,6 @@ Outside programming, I enjoy learning new technologies, solving programming chal
 <img src="https://komarev.com/ghpvc/?username=Losdd&label=Profile%20Views&color=3B82F6&style=for-the-badge"/>
 
 </p>
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Master React fundamentals
-- ✅ Build complete Full Stack applications
-- ✅ Improve Backend Development with Flask and APIs
-- ✅ Strengthen Database Design skills
-- ✅ Learn Cloud deployment and hosting
-- ✅ Build a professional portfolio website
-- ✅ Contribute to Open Source
-- ✅ Land my first Software Development Internship
 
 ---
 
@@ -221,132 +129,6 @@ Systems Analysis and Development
 
 ---
 
-📚 Main Areas
-
-• Software Development
-
-• Database Design
-
-• Software Engineering
-
-• Programming Logic
-
-• Linux
-
-• IoT
-
-• Full Stack Fundamentals
-
-
-# 🧠 Core Skills
-
-✔ Problem Solving
-
-✔ Logical Thinking
-
-✔ Responsive Web Development
-
-✔ Database Modeling
-
-✔ Backend Fundamentals
-
-✔ Team Collaboration
-
-✔ Scrum
-
-✔ Kanban
-
-✔ Continuous Learning
-
-
-# 💭 My Development Philosophy
-
-I believe software development is a continuous learning journey.
-
-Every project I build is an opportunity to improve my technical skills, write cleaner code, solve new problems and better understand how modern software is created.
-
-I'm always looking for new challenges that help me grow both professionally and personally.
-
-
-# 📂 Repository Categories
-
-🌐 Web Development
-
-🐍 Python Projects
-
-🗄 Database Projects
-
-🤖 IoT & Arduino
-
-📊 Dashboards
-
-⚙ Backend Applications
-
-📚 Academic Projects
-
-🚀 Personal Projects
-
-
-# ⭐ Favorite Technologies
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,js,html,css,postgresql,flask,linux,git"/>
-
-</div>
-
-
-# 📈 Future Learning Goals
-
-🔹 React
-
-🔹 Node.js
-
-🔹 Docker
-
-🔹 TypeScript
-
-🔹 REST APIs
-
-🔹 Cloud Computing
-
-🔹 Software Architecture
-
-🔹 CI/CD
-
-
-# 🌟 What Drives Me
-
-- 🚀 Curiosity to learn new technologies
-
-- 💡 Building practical solutions
-
-- 📚 Continuous improvement
-
-- 🤝 Team collaboration
-
-- 🔥 Consistency over perfection
-
-
-> "The best way to learn programming is by building things."
-
-# 💼 Open to Opportunities
-
-I'm currently looking for opportunities to gain experience in software development, collaborate on interesting projects and continue growing as a developer.
-
-Feel free to connect with me on LinkedIn.
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://github.com/Losdd/Losdd/blob/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
----
 
 # 📈 Coding Activity
 
@@ -357,11 +139,6 @@ Feel free to connect with me on LinkedIn.
 </div>
 
 ---
-
-# 💡 Favorite Quote
-
-> *"Every line of code I write today is another step toward becoming the developer I want to be."*
-
 
 # ❤️ Thanks for Visiting
 
@@ -378,7 +155,7 @@ Have a great day! 🚀
 
 <p align="center">
 
-<a href="SEU_LINK_LINKEDIN">
+<a href="https://www.linkedin.com/in/lucas-de-oliveira-silva-12abb8303/">
 <img src="https://skillicons.dev/icons?i=linkedin" width="55"/>
 </a>
 
