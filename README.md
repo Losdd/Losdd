@@ -39,7 +39,7 @@ Outside programming, I enjoy learning new technologies, solving programming chal
 
 <p align="left">
 
-<a href="SEU_LINK_LINKEDIN">
+<a href="https://github.com/Losdd">
 <img src="https://skillicons.dev/icons?i=linkedin" width="48"/>
 </a>
 
@@ -327,7 +327,6 @@ Collection of database and SQL projects developed during Systems Analysis and De
 
 ---
 
-# 💼 Other Academic Projects
 
 ✔ November Blue Website
 
@@ -383,7 +382,6 @@ Collection of database and SQL projects developed during Systems Analysis and De
 
 📚 Continuous Learning
 
-# 📈 Project Philosophy
 
 Every project in this profile represents an important step in my learning journey.
 
@@ -391,9 +389,8 @@ Instead of focusing only on technologies, I enjoy building practical solutions t
 
 I believe that consistent practice and continuous learning are the keys to becoming a better developer.
 
----
 
-# 📊 GitHub Dashboard
+
 
 <div align="center">
 
@@ -415,7 +412,7 @@ I believe that consistent practice and continuous learning are the keys to becom
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=SEU_USUARIO&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Losdd&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
 
 </div>
 
@@ -509,7 +506,7 @@ I believe that consistent practice and continuous learning are the keys to becom
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&label=Profile%20Views&color=3B82F6&style=for-the-badge"/>
+<img src="https://komarev.com/ghpvc/?username=Losdd&label=Profile%20Views&color=3B82F6&style=for-the-badge"/>
 
 </p>
 
@@ -661,7 +658,7 @@ Feel free to connect with me on LinkedIn.
 
 <div align="center">
 
-![Snake animation](https://github.com/SEU_USUARIO/SEU_USUARIO/blob/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://github.com/Losdd/Losdd/blob/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
@@ -671,7 +668,7 @@ Feel free to connect with me on LinkedIn.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU_USUARIO&theme=tokyo-night&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Losdd&theme=tokyo-night&hide_border=true"/>
 
 </div>
 
@@ -710,7 +707,7 @@ Have a great day! 🚀
 
 <p align="center">
 
-<img src="https://komarev.com/ghpvc/?username=SEU_USUARIO&style=for-the-badge&color=blue"/>
+<img src="https://komarev.com/ghpvc/?username=Losdd&style=for-the-badge&color=blue"/>
 
 </p>
 
